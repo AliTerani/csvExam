@@ -1,0 +1,25 @@
+C:\Users\alite\AppData\Local\Temporary Projects\csvExam\bin\Debug\csvExam.exe.config
+D:\vb\csvExam\csvExam\bin\Debug\csvExam.exe.config
+D:\vb\csvExam\csvExam\bin\Debug\csvExam.exe
+D:\vb\csvExam\csvExam\bin\Debug\csvExam.pdb
+D:\vb\csvExam\csvExam\bin\Debug\csvExam.xml
+D:\vb\csvExam\csvExam\bin\Debug\Guna.UI2.dll
+D:\vb\csvExam\csvExam\obj\Debug\csvExam.vbprojResolveAssemblyReference.cache
+D:\vb\csvExam\csvExam\obj\Debug\csvExam.Form1.resources
+D:\vb\csvExam\csvExam\obj\Debug\csvExam.Resources.resources
+D:\vb\csvExam\csvExam\obj\Debug\csvExam.vbproj.GenerateResource.Cache
+D:\vb\csvExam\csvExam\obj\Debug\csvExam.exe
+D:\vb\csvExam\csvExam\obj\Debug\csvExam.xml
+D:\vb\csvExam\csvExam\obj\Debug\csvExam.pdb
+C:\csvExam\csvExam\bin\Debug\csvExam.exe.config
+C:\csvExam\csvExam\obj\Debug\csvExam.exe
+C:\csvExam\csvExam\obj\Debug\csvExam.xml
+C:\csvExam\csvExam\obj\Debug\csvExam.pdb
+C:\csvExam\csvExam\bin\Debug\csvExam.exe
+C:\csvExam\csvExam\bin\Debug\csvExam.pdb
+C:\csvExam\csvExam\bin\Debug\csvExam.xml
+C:\csvExam\csvExam\bin\Debug\Guna.UI2.dll
+C:\csvExam\csvExam\obj\Debug\csvExam.vbprojResolveAssemblyReference.cache
+C:\csvExam\csvExam\obj\Debug\csvExam.Form1.resources
+C:\csvExam\csvExam\obj\Debug\csvExam.Resources.resources
+C:\csvExam\csvExam\obj\Debug\csvExam.vbproj.GenerateResource.Cache
